@@ -1,0 +1,11 @@
+Host: beta-api.crunchyroll.com
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+Content-Length: 83
+Accept: */*
+Cookie: __cf_bm=47aab236407a0e221b3cbc5d413c4e20e29adea3-1622483713-1800-ASXav7bFDBf4Iwz20FK2+vJZnNOkil22pFavg5USqwbBnNQ16wN3TLwxmcj1bKV3S3dCq8BOHmUudwcSlO2/14Zk3/EOEKznDujmrDhHWjsh
+Connection: keep-alive
+ETP-Anonymous-ID: 775A982E-EEBB-4A8B-BFF3-FD8FC12E59EC
+User-Agent: Crunchyroll/4.7.0 (bundle_identifier:com.crunchyroll.iphone; build_number:2052790.302106097) iOS/14.6.0 Gravity/3.0.0
+Accept-Language: fr-FR;q=1.0
+Authorization: Basic M2V2eDJudnF1ZTB1eG5wemJ2aG86NGZMUWRmQmVJdk1yNlVPei1Fb1N3aXZ0cmZ6Ym9HOFU=
+Accept-Encoding: gzip;q=1.0, compress;q=0.5
